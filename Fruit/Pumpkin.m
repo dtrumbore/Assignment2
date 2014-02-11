@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Jay Palat. All rights reserved.
 //
 
-#import "Vegetable.h"
+#import "Pumpkin.h"
 
 @implementation Pumpkin
 

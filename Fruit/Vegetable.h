@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface Vegetables : NSObject
+@interface Vegetable : NSObject
 
 - initWithName:(NSString *)inName
      andShape:(NSString *)inShape andColor:(NSString *)inColor ;

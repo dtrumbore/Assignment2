@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 Pitt. All rights reserved.
 //
 
-#import "Vegetables.h"
+#import "Vegetable.h"
 
-@implementation Vegetables
+@implementation Vegetable
 
 - initWithName:(NSString *)inName andShape:(NSString *)inShape andColor:(NSString *)inColor {
     self = super.init;
